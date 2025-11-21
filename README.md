@@ -1,7 +1,6 @@
 # Python Tracer
 
-A simple code tracer program which takes the name of a Python file containing a single function and outputs the Big-Oh 
-order of complexity of that function. Supports evaluation of nested code blocks too.
+A simple code tracer program which takes the name of a Python file containing a single function and outputs the time complexity of that function. Supports evaluation of nested code blocks too.
 
 ## Input Code Restrictions
 
